@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DriverSignPDF": {
+      "commandName": "Project",
+      "commandLineArgs": "--type=sign-proof --file-origin=\"C:\\Users\\whend\\OneDrive\\Área de Trabalho\\0d73f80c-3d27-4eef-9058-f1d4dadca6d3\\origin.pdf\" --file-proof=\"C:\\Users\\whend\\OneDrive\\Área de Trabalho\\0d73f80c-3d27-4eef-9058-f1d4dadca6d3\\proof.pdf\" --file-output=\"C:\\Users\\whend\\OneDrive\\Área de Trabalho\\0d73f80c-3d27-4eef-9058-f1d4dadca6d3\\signed.pdf\" --file-title=\"ERRO_20230907133652.PDF\" --file-author=\"contato@signaturo.com.br\" --id=\"9a13f25e-a5c0-421f-94bf-21ccd8357e03\" --id-sign=\"a7032f24-9208-4462-80aa-2e85c6506eae-3d649fd1-8c5f-4b8b-b3e1-b180caece109\" --font-path=\"\\\\wsl.localhost\\Ubuntu\\home\\whendryo\\signaturo\\app\\storage\\app\\public\\fonts\\roboto\\Roboto-Regular.ttf\" --keystore-path=\"\\\\wsl.localhost\\Ubuntu\\home\\whendryo\\signaturo\\app\\storage\\app\\private\\keystore\\signaturo\\certificado.pfx\" --keystore-password=\"123456\" "
+    }
+  }
+}
